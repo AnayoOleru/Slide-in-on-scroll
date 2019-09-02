@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
 
 # Slide-in-on-scroll
-Day 12: A collection of drums and other percussion instruments. Fun to play drum, you can customize your a song, a beat or try out any sound you want, just by hitting the corresponding keys on your keyboard.
+Day 12: An article web-page that opmitizes the efficiency, by lazy-loading images.
 
 https://anayooleru.github.io/Slide-in-on-scroll/
 
